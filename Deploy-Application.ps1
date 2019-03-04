@@ -185,7 +185,7 @@ Try {
 		}
 
 		# <Perform Uninstallation tasks here>
-		Execute-MSI -Action Uninstall -Path '{030CE529-FBD6-4FD7-96F9-4674A2EEC503}'
+		Execute-MSI -Action Uninstall -Path '{7F6BBAAD-DF3F-42B6-9C6B-222CD6E10A63}'
 
 		##*===============================================
 		##* POST-UNINSTALLATION
